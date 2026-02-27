@@ -1,0 +1,56 @@
+# Gotye – Somebody That I Used To Know
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.99] Now and then I think of when we were together
+[00:26.13] Like when you said you felt so happy you could die
+[00:33.75] Told myself that you were right for me
+[00:37.25] But felt so lonely in your company
+[00:40.79] But that was love, and it's an ache I still remember
+[01:06.79] 
+[01:03.04] You can get addicted to a certain kind of sadness
+[01:10.82] Like resignation to the end, always the end
+[01:18.05] So when we found that we could not make sense
+[01:22.31] Well, you said that we would still be friends
+[01:25.88] But I'll admit that I was glad it was over
+[01:46.88] 
+[01:33.37] But you didn't have to cut me off
+[01:37.02] Make out like it never happened and that we were nothin'
+[01:41.13] And I don't even need your love
+[01:43.52] But you treat me like a stranger, and that feels so rough
+[02:12.02] 
+[01:48.11] No, you didn't have to stoop so low
+[01:51.89] Have your friends collect your records and then change your number
+[01:55.81] I guess that I don't need that, though
+[01:59.03] Now you're just somebody that I used to know
+[02:21.03] 
+[02:06.47] Now you're just somebody that I used to know
+[02:13.86] Now you're just somebody that I used to know
+[02:35.86] 
+[02:32.72] Now and then I think of all the times you screwed me over
+[02:39.73] But had me believin' it was always somethin' that I'd done
+[02:48.08] And I don't wanna live that way, readin' into every word you say
+[02:55.59] You said that you could let it go
+[02:58.20] And I wouldn't catch you hung up on somebody that you used to know
+[03:31.20] 
+[03:03.03] But you didn't have to cut me off
+[03:06.57] Make out like it never happened and that we were nothin'
+[03:10.57] And I don't even need your love
+[03:12.80] But you treat me like a stranger, and that feels so rough
+[03:41.30] 
+[03:17.32] No, you didn't have to stoop so low
+[03:21.29] Have your friends collect your records and then change your number
+[03:25.59] I guess that I don't need that, though
+[03:28.36] Now you're just somebody that I used to know
+[03:50.36] 
+[03:31.54] Somebody (I used to know)
+[03:35.34] Somebody (now you're just somebody that I used to know)
+[03:38.84] Somebody (I used to know)
+[03:42.68] Somebody (now you're just somebody that I used to know)
+[04:10.18] 
+[03:48.65] I used to know
+[03:51.99] That I used to know
+[03:56.09] I used to know
+[03:58.24] Somebody
+```
