@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Somebody That I Used To Know",
+  "base_artist": "Gotye",
+  "createdAt": "2026-02-27T20:25:07.345309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/01_Somebody_That_I_Used_To_Know_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/02_Somebody_That_I_Used_to_Know_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somebody That I Used to Know",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/03_Somebody_That_I_Used_to_Know_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/04_Somebody_That_I_Used_To_Know_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Somebody That I Used to Know",
+      "artist": "gotyemusic",
+      "has_synced": true,
+      "path": "select/05_Somebody_That_I_Used_to_Know_gotyemusic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/06_Somebody_That_I_Used_To_Know_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Kimbra",
+      "has_synced": true,
+      "path": "select/07_Somebody_That_I_Used_To_Know_Kimbra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somebody That I Used to Know",
+      "artist": "BENEE",
+      "has_synced": true,
+      "path": "select/08_Somebody_That_I_Used_to_Know_BENEE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/09_Somebody_That_I_Used_To_Know_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/10_Somebody_That_I_Used_To_Know_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/11_Somebody_That_I_Used_To_Know_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/12_Somebody_That_I_Used_to_Know_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/13_Somebody_That_I_Used_To_Know_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know",
+      "artist": "Kimbra",
+      "has_synced": true,
+      "path": "select/14_Somebody_That_I_Used_To_Know_Kimbra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "somebody that i used to know",
+      "artist": "gotye",
+      "has_synced": true,
+      "path": "select/15_somebody_that_i_used_to_know_gotye.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye",
+      "has_synced": false,
+      "path": "select/pl_01_Somebody_That_I_Used_to_Know_Gotye.txt"
+    }
+  ]
+}
